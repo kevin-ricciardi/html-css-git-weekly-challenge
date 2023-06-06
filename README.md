@@ -13,6 +13,6 @@ The following changes were made in the HTML and CSS files for the application:
 * In the **CSS** document, the margin bottom of the section ".benefit-cost" on line 100 has been tripled from 32 pixels to 96 pixels to better resemble the desired application appearance.
 * In the **CSS** document, the footer section on lines 191 to 200 has been removed to coincide with the removal of the footer section in the **HTML** document.
 
-##Link
+## Link
 
 (Issue in deployment)
