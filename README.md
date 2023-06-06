@@ -15,4 +15,4 @@ The following changes were made in the HTML and CSS files for the application:
 
 ## Link
 
-(Issue in deployment)
+(https://kevin-ricciardi.github.io/html-css-git-weekly-challenge/)
